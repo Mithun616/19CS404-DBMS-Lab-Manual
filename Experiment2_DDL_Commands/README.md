@@ -283,7 +283,7 @@ foreign key(ProjectID) references Projects(ProjectID));
 
 <img width="1112" height="166" alt="image" src="https://github.com/user-attachments/assets/7ebd3559-ef08-4db2-a9ca-48e6256ea281" />
 
-<img width="1468" height="92" alt="image" src="https://github.com/user-attachments/assets/e0ea8b90-a46e-4147-beb8-1491b62f2f6e" />
+<img width="1453" height="182" alt="image" src="https://github.com/user-attachments/assets/5ef26cdd-73d0-4b84-8458-00dbbe1f382e" />
 
 
 ## RESULT
